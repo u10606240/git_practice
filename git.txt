@@ -1,9 +1,0 @@
-1.作業上傳到github,看以下示範
-https://docs.google.com/document/d/1HonahPqGRnmeNETOin-KjVWv3wGLw-YD3OohrlLJhDM/edit?usp=sharing
-寄網址給老師 不會的話連結有影片
-
-
-2.註冊jsfiddle帳號
-http://jsfiddle.net
-
-3.把我給的程式碼放到index
